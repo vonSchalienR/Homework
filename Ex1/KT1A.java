@@ -1,6 +1,6 @@
 package Ex1;
 
-public class KT1 {
+public class KT1A {
     public static void main(String[]args){
 
 // Tehtävä 1 lausekkeet ja arvot ohjelmoimalla kohta A

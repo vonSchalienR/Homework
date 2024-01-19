@@ -7,7 +7,7 @@ public class KT1B {
 
 int a = 15;
 int b = 2;
-boolean tulos = a > b;
+boolean tulos = a < b;
 System.out.println("a < b : "+ tulos);
 
     }
