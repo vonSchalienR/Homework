@@ -1,8 +1,10 @@
 package Ex2;
 
 public class KT2_4 {
+   
+
     
-    public static void maid(String[]arg){
+    public static void main(String[]arg){
 
 
            
@@ -15,20 +17,5 @@ public class KT2_4 {
             
    
     }
-
-
-
-    
-
-
-    
-
-    
-
-
-
-
-
-
 
 
