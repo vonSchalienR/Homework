@@ -27,7 +27,7 @@ public class KT4_1 {
     public static int lueLuku(Scanner scanner) {
         while (true) {
             try {
-                System.out.print("Syötä kokonaisluku: ");
+                System.out.print("Syötä kokonaisluku: "); // sout :)
                 return Integer.parseInt(scanner.nextLine());
             } catch (NumberFormatException e) {
                 System.out.println("Virheellinen syöte. Syötä kokonaisluku.");
@@ -39,3 +39,4 @@ public class KT4_1 {
         return luku % 2 == 0;
     }
 }
+
