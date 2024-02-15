@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 
 public class KT4_5 {
-   
-    private static final Scanner lukija = new Scanner(System.in);
+   private static final Scanner lukija = new Scanner(System.in);
+    
     public static void main(String[] args){
 
         boolean jatketaan = true;
